@@ -4,7 +4,7 @@ This project builds an **end-to-end pipeline** for analyzing book descriptions, 
 
 ---
 ## 🛠 Tech Stack
-- **Python** (pandas, numpy)  
+- **Python** (pandas, numpy, torch)  
 - **Hugging Face Transformers** (classification & emotion analysis)  
 - **LangChain + Chroma** (vector search)  
 - **Gradio** (interactive UI)  
